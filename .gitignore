@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+.env
+
+# Seguridad
+keys/*
+*.pem
+*.key
+*.secret
+
+# Archivos cifrados
+*.tesla
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+
+# Sistema
+Thumbs.db
+.DS_Store
