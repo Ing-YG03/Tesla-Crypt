@@ -24,3 +24,8 @@ keys/*
 # Sistema
 Thumbs.db
 .DS_Store
+
+# Test files
+original.txt
+restaurado.txt
+test_*.txt
